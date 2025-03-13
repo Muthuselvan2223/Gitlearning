@@ -4,4 +4,4 @@
 
 
 
-This is the git training.
+This is the git training. & commit training.
