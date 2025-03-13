@@ -1,7 +1,0 @@
-#sample 
-#Text file to learn push our changes to local machine to web github
-
-
-
-
-This is the git training. & commit training.
